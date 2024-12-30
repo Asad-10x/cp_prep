@@ -1,5 +1,5 @@
 #include <iostream> // stands for Input/Output Stream, used to take input and show output 
-#include <climits> // to get Maximum limits of certain datatypes.
+#include <climits> // to get Maximum limits
 using namespace std;
 
 int main( ){
