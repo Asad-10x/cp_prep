@@ -9,7 +9,6 @@ Regular customers get a 15% discount.
 New customers get a 5% discount.
 If the item's price is less than 5,000, no discount is applied.
 Input:
-
 The item's price (an integer).
 The type of customer ("regular" or "new").
 Output:
